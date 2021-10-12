@@ -1,5 +1,6 @@
-[Demo]()
+[Demo](https://inspiring-wing-ba802b.netlify.app/)
 
+//TODO Çalışmayan kısımlar fix edilecek.
 
 ##Gereksinimler
 
